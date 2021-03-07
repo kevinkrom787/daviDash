@@ -15,3 +15,6 @@ There are no good celo visualization dApps/dashboards that help users understand
 _“Design for all” - everyone should have access to their financial data_
 
 TL:DR - We think it would be really cool to build data tools to help everyday people, traders and refugees improve financial stability through financial insights such as where your money is coming from, how you’re spending it and what applications are helping you save for the future!
+
+
+![Example dashboard](https://www.creditcards.com/credit-card-news/wp-content/uploads/sites/4/Screen-Shot-2020-07-27-at-12.27.46-PM-1024x633.png)

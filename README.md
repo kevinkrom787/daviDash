@@ -1,7 +1,7 @@
 # daviDash
 Hackathon project for MakeItMobile
 
-# Problem statement:#  
+## Problem statement: 
 There are no good celo visualization dApps/dashboards that help users understand:
 * Where you are spending cUSD & Celo
 * Where you are receiving cUSD & Celo

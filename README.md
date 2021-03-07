@@ -10,8 +10,8 @@ There are no good celo visualization dApps/dashboards that help users understand
 * UbeSwap - Liquidity pool yield
 * How much you are sending to ImpactMarket
 
-How does this fit into the Celo ecosystem/core tenants:  
+### How does this fit into the Celo ecosystem/core tenants:  
 
-“Design for all” - everyone should have access to their financial data
+_“Design for all” - everyone should have access to their financial data_
 
 TL:DR - We think it would be really cool to build data tools to help everyday people, traders and refugees improve financial stability through financial insights such as where your money is coming from, how you’re spending it and what applications are helping you save for the future!

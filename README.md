@@ -1,4 +1,4 @@
-# daviDash
+## D.A.V.I.Dash: Decentralized Application for Visualizing Information
 Hackathon project for MakeItMobile
 
 ## Problem statement: 
